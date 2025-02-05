@@ -1,3 +1,3 @@
 # CSIS225
-# Problem Set 1
+# Lab 3
 # Spring 2025
